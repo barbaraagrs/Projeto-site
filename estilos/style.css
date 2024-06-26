@@ -8,7 +8,7 @@ body {
 }
 
 main {
-    background-color: darksalmon;
+    background-color: rgb(226, 194, 184);
     width: 500px;
     margin: auto;
     box-shadow: 3px 3px 5px black;
